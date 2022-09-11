@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayine-nongre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++,HTMl and CSS
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning Java,NodeJS,HTMl and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  >> eugeneatinbire@gmail.com
 
