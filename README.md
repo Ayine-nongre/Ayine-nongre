@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @Ayine-nongre
-- 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Java,NodeJS,HTMl and CSS
-- 💞️ I’m looking to collaborate on ...
+ # Hi👋, I’m Eugene Atinbire
+- 👀 I’m a Computer Science student at the Kwame NKrumah University of Science and Technology 
+- 🌱 I’m a passionate mobile and web developer
+- 💞️ I’m currently learning Java and NodeJs
 - 📫 How to reach me  >> eugeneatinbire@gmail.com
+
+# Languages and Technologies i work with:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 <!---
 Ayine-nongre/Ayine-nongre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
