@@ -1,7 +1,7 @@
  # Hi👋, I’m Eugene Atinbire
 - 👀 I’m a Computer Science student at the Kwame NKrumah University of Science and Technology 
 - 🌱 I’m a passionate mobile and web developer
-- 💞️ I’m currently learning Java and NodeJs
+- 💞️ I’m currently learning Java and ReactJs
 - 📫 How to reach me  >> eugeneatinbire@gmail.com
 
 # Languages and Technologies i work with:
