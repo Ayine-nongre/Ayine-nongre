@@ -1,7 +1,7 @@
  # Hi👋, I’m Eugene Atinbire
 - 👀 I’m a Computer Science student at the Kwame NKrumah University of Science and Technology and Software developer trainee at ALX
 - 🌱 I’m a passionate mobile and web developer
-- 💞️ I’m currently learning C and ReactJs
+- 💞️ I’m currently learning C and NodeJs
 - 📫 How to reach me  >> eugeneatinbire@gmail.com
 
 # Languages and Technologies i work with:
