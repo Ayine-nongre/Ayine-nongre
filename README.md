@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Ghana and a ALX software engineering trainee</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a finance tracker web app<br>👯 I’m looking to collaborate on web projects to solve problems<br>🤝 I’m looking for help with<br>🌱 I’m currently learning NodeJs, express and C<br>💬 Ask me about Javascript, C<br>⚡ Fun fact
+🔭 I’m currently working on a finance tracker web app<br>👯 I’m looking to collaborate on web projects to solve problems<br>🤝 Check out my blog: https://blog.ayinenongre.tech/<br>🌱 I’m currently learning NodeJs, express and C<br>💬 Ask me about Javascript, C<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
