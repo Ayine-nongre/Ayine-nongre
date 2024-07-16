@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eugene Atinbire</h1>
-<h3 align="center">A passionate backend developer from Ghana and a ALX software engineering trainee</h3>
+<h3 align="center">A passionate Fullstack developer passionate about crafting solutions to problems using code and software engineering as my weapon of choice</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a finance tracker web app<br>👯 I’m looking to collaborate on web projects to solve problems<br>🤝 Check out my blog: https://blog.ayinenongre.tech/<br>🌱 I’m currently learning NodeJs, express and C<br>💬 Ask me about Javascript, C<br>⚡ Fun fact
+🔭 I’m currently working on a mental health resource mobile app<br>👯 I’m looking to collaborate on web projects to solve problems<br>🤝 Check out my blog: https://blog.ayinenongre.tech/<br>🌱 I’m currently learning React Native, React and TailwindCSS<br>💬 Ask me about Javascript, C<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
