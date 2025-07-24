@@ -1,19 +1,46 @@
-<h1 align="center">Hi 👋, I'm Eugene Atinbire</h1>
-<h3 align="center">A passionate Fullstack developer passionate about crafting solutions to problems using code and software engineering as my weapon of choice</h3>
+# Hi, I’m Eugene 👋
 
-# 💫 About Me:
-🔭 I’m currently working on a mental health resource mobile app<br>👯 I’m looking to collaborate on web projects to solve problems<br>🤝 Check out my blog: https://blog.ayinenongre.tech/<br>🌱 I’m currently learning React Native, React and TailwindCSS<br>💬 Ask me about Javascript, C<br>⚡ Fun fact
+I'm a backend engineer passionate about building robust, scalable APIs and mastering real-world DevOps practices. I enjoy turning ideas into backend systems and learning from every project and failure.
 
+Currently transitioning toward a **Site Reliability Engineer (SRE)** role while building full-stack mobile apps using **React Native + NestJS**.
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/eugeneatinbire) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
+### 🌱 I’m currently learning:
+- 🐧 Linux fundamentals & shell scripting
+- 🚀 Docker, GitHub Actions & CI/CD
+- 🧪 Testing, observability & reliability
+- 🔐 Clean architecture, authentication, and security
+
+---
+
+### ⚒️ Tech Stack & Tools
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+### 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=ayine-nongre&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayine-nongre&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayine-nongre&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://hit.yhype.me/github/profile?user_id=78736543)
+---
+
+### 📫 Let’s Connect
+
+- 💼 [LinkedIn](www.linkedin.com/in/ayine-nongre)
+- 📬 Email: eugeneatinbire@gmail.com
+- 🌐 Portfolio: *(coming soon)*
+
+---
+
+### 💡 Motto
+> “Get uncomfortable. Grow anyway.”
